@@ -1,5 +1,5 @@
 # Scrape Sustainalytics ratings from Yahoo! Finance
-Python3 script to scrape all available Sustainalytics ratings from Yahoo! Finance for stocks and ETFs. As the Yahoo! Finance website uses mostly javascript, scraping is done using Selenium. 
+Python3 script to scrape all available Sustainalytics ESG ratings from Yahoo! Finance for stocks and ETFs. As the Yahoo! Finance website uses mostly javascript, scraping is done using Selenium. 
 
 ## Dependencies
 1. bs4 / BeautifulSoup 4 (`!pip install beautifulsoup4`)
