@@ -13,4 +13,4 @@ Python3 script to scrape all available Sustainalytics ESG ratings from Yahoo! Fi
 The script outputs 2 .csv files:	
 
 * `yahoo_finance_sustainalytics_tickers.csv`: contains all tickers and company names for which ESG data is available (the universe)		
-* `yahoo_finance_sustainalytics.csv`: the ESG risk ratings, controversy levels, and product involvement flags for the ESG stock universe	
+* `yahoo_finance_sustainalytics.csv`: the ESG risk ratings, controversy levels, and product involvement flags for stocks and ETFs in the universe
