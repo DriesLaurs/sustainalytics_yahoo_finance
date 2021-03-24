@@ -1,5 +1,5 @@
 # Scrape Sustainalytics ratings from Yahoo! Finance
-Python3 script to scrape all available Sustainalytics ESG ratings from Yahoo! Finance for stocks and ETFs. As the Yahoo! Finance website loads JavaScript, scraping is done using Selenium. Note that for getting Selenium to work, you need to install a webdriver. I used [ChromeDriver][https://sites.google.com/a/chromium.org/chromedriver/downloads]. 
+Python3 script to scrape all available Sustainalytics ESG ratings from Yahoo! Finance for stocks and ETFs. As the Yahoo! Finance website loads JavaScript, scraping is done using Selenium. Note that for getting Selenium to work, you need to install a webdriver. I used [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads). 
 
 ### IMPORTANT: USE AT YOUR OWN RISK. SCRAPING MAY OR MAY NOT BE AGAINST YAHOO!'s TERMS OF SERVICE.
 
